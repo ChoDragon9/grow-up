@@ -1,0 +1,23 @@
+{
+  "name": "revealjs-boilerplate",
+  "version": "1.0.0",
+  "description": "revealJs 보일럿 플레이트",
+  "main": "index.html",
+  "scripts": {
+    "start": "gulp serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChoDragon9/revealjs-boilerplate.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChoDragon9/revealjs-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ChoDragon9/revealjs-boilerplate#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0"
+  }
+}
