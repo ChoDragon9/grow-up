@@ -1,0 +1,25 @@
+{
+  "name": "grow-up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "dev": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "scripts": {
+    "push": "git add -A && git commit -m \"설명 수정\" && git push origin master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChoDragon9/grow-up.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChoDragon9/grow-up/issues"
+  },
+  "homepage": "https://github.com/ChoDragon9/grow-up#readme"
+}

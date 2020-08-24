@@ -1,10 +1,1 @@
-# revealjs-boilerplate
-[revealJs](https://revealjs.com/) 보일럿 플레이트
-
-## 설치 및 실행
-- `gulp` 사용
-- `index.html` 와치함
-```bash
-$ npm install
-$ npm start
-```
+[발표보기](https://chodragon9.github.io/grow-up/%EC%9D%BC%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%A0%9C%EB%8C%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B4%20%EA%B1%B4%20%EC%B2%98%EC%9D%8C%EC%9E%85%EB%8B%88%EB%8B%A4/index.html)
